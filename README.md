@@ -1,2 +1,2 @@
 # Just some description
-This is the example of working with Git
+This is the example of working with Git Bash
