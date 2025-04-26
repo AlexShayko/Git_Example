@@ -1,2 +1,2 @@
-# project_for_hw
-This is my first project
+# Just some description
+This is the example of working with Git
